@@ -1,0 +1,5 @@
+
+Hayvan Çiftliği,George Orwell,1879,120
+Kızıl Veba,Jack London,1700,68
+Denemeler,Montaigne,2001,250
+Devlet,Platon,2001,400
